@@ -1,0 +1,10 @@
+// First C++ Program
+// The below program is one of the simplest C++ programs that shows the basic structure of its programs:
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!";
+    return 0;
+}
